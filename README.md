@@ -18,10 +18,10 @@ This app is a proof of concept for a web program, that facilitates logging in wi
 
 To get a local copy running on your machine:
 1. **Clone the repository**
-```git clone https://github.com/LukeKozielecki/store-front-thing/```
-2. **Open in Android Studio**
+```git clone https://github.com/LukeKozielecki/car-thing/```
+2. **Open in VS Code**
 3. **Build and Run**
-Select emulator or physical device sufficient for minimal Gradle requirements.
+Select dev build, the app should run in your browser of choice.
 
 ## License
 
